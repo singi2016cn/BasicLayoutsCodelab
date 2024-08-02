@@ -203,7 +203,6 @@ fun AlignYourBodyRow(modifier: Modifier = Modifier) {
         AlignYourBodyElementModel("Inversions", R.drawable.a),
         AlignYourBodyElementModel("Inversions", R.drawable.a),
         AlignYourBodyElementModel("Inversions", R.drawable.a),
-        AlignYourBodyElementModel("Inversions", R.drawable.a),
     )
     LazyRow(
         horizontalArrangement = Arrangement.spacedBy(8.dp),
